@@ -16,3 +16,5 @@ Ejemplo:
 
 - `semana04/csharp/`
 - `semana04/python/`
+- `semana06/csharp/`
+- `semana06/python/`
