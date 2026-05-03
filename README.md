@@ -12,9 +12,3 @@ Cada semana contiene:
 - `csharp/`: ejercicios en C#
 - `python/`: ejercicios en Python
 
-Ejemplo:
-
-- `semana04/csharp/`
-- `semana04/python/`
-- `semana06/csharp/`
-- `semana06/python/`
